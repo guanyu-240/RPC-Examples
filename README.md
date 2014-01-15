@@ -1,3 +1,3 @@
 RPC-Examples
 ============
-Inter-process communication examples implemented in RPC(Remote procedure call)
+This repository includes inter-process communication examples implemented in RPC(Remote procedure call).
